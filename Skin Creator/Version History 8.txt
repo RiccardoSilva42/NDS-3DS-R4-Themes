@@ -1,0 +1,23 @@
+0.08.1.8 06/02/2009
+- Small changes on UI, more readable for color depth
+
+0.08.1.6 01/10/2009
+- Mouse operation for moving and resizing image
+
+0.08.0.5 15/08/2009
+- Save settings on exit
+- Fixed some minor bugs
+
+0.08.0.4 10/08/2009
+- Fixed bug on linking screens
+
+0.08.0.3 19/07/2009
+- Include 16bit color depth, in order to support R4 clones
+- Fixed some minor bugs
+
+0.08.0.2 03/03/2009
+- Linking screens
+
+0.08.0.1 06/10/2008
+- Changed some codes to support "mono",
+  which is a cross-platform .Net framework
